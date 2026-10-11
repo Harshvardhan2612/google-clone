@@ -1,0 +1,39 @@
+.image img{
+    display:block;
+    margin-top: 60px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 500px;
+}
+
+.search input{
+    display:block;
+    margin-top:25px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 600px;
+    height: 50px;
+    font-size: 20px;
+    border: 1px solid #c8cacc;
+    border-radius: 24px;
+    padding: 0 20px;
+}
+
+.butt button{
+    width: 200px;
+    text-align: center;
+    margin-top:25px;
+    border: 1px solid #e4e7e8;
+    border-radius:20px;
+    padding-top:8px;
+    padding-bottom:8px;
+    padding-left:12px;
+    padding-right:12px;
+    font-size:20px;
+    line-height: 30px;
+    background-color: #fbfbf8;
+}
+
+.butt {
+    text-align: center;
+}
